@@ -1,8 +1,8 @@
-# ALICE v2.0.0 🤖
+# ALICE v2.0.0 
 
 A voice-and-text desktop agent for Windows. Type or speak a command and ALICE opens apps and websites, launches "modes" (bundles of apps/sites for study, coding, gaming, etc.), reads you the news and weather, and can lock/sleep/shut down your PC.
 
-## ✨ What's New in v2
+## What's New in v2
 
 - **Remove API Key**: Type `remove api` to delete your stored API key
 - **Enhanced Speech Feedback**: ALICE now speaks for all commands
