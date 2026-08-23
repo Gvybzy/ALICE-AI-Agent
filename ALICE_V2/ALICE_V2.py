@@ -54,10 +54,6 @@ APPS = {
     "discord": r"C:\Users\{}\AppData\Local\Discord\app-1.0.9251\Discord.exe".format(USERNAME),
     "steam": r"C:\Program Files (x86)\Steam\Steam.exe",
     "vs code": r"C:\Users\{}\OneDrive\Desktop\VS Code\Code.exe".format(USERNAME),
-    
-    # Facebook PWA
-    "facebook": r'"C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" --profile-directory=Default --app-id=kippjfofjhjlffjecoapiogbkgbpmgej --app-url=https://www.facebook.com/?ref=homescreenpwa --app-launch-source=4',
-    "fb": r'"C:\Program Files (x86)\Microsoft\Edge\Application\msedge_proxy.exe" --profile-directory=Default --app-id=kippjfofjhjlffjecoapiogbkgbpmgej --app-url=https://www.facebook.com/?ref=homescreenpwa --app-launch-source=4',
 
     # Websites
     "youtube": "start https://youtube.com",
